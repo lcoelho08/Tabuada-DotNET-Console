@@ -1,0 +1,15 @@
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\bin\Debug\net7.0\Tabuada DotNET.exe
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\bin\Debug\net7.0\Tabuada DotNET.deps.json
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\bin\Debug\net7.0\Tabuada DotNET.runtimeconfig.json
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\bin\Debug\net7.0\Tabuada DotNET.dll
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\bin\Debug\net7.0\Tabuada DotNET.pdb
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\Tabuada DotNET.csproj.AssemblyReference.cache
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\Tabuada DotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\Tabuada DotNET.AssemblyInfoInputs.cache
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\Tabuada DotNET.AssemblyInfo.cs
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\Tabuada DotNET.csproj.CoreCompileInputs.cache
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\Tabuada DotNET.dll
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\refint\Tabuada DotNET.dll
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\Tabuada DotNET.pdb
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\Tabuada DotNET.genruntimeconfig.cache
+C:\Users\AS-LF\Desktop\BootCamp\DotNet\Tabuada DotNET\obj\Debug\net7.0\ref\Tabuada DotNET.dll
